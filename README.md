@@ -9,3 +9,6 @@ A C++ Hello World project, using CMake
 
 # Run test
 1. make test
+
+
+make a change
