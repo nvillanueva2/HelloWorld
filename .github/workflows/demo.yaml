@@ -9,8 +9,8 @@ jobs:
     steps:
       - name: Builing the package
         run: |
-		mkdir -p build
-		cd build
-		cmake ..
-		make
+	  mkdir -p build
+	  cd build
+	  cmake ..
+	  make
  
